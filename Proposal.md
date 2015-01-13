@@ -14,14 +14,14 @@ its feasibility at energies above 30 keV [4].
 
 One promising application for medical phase contrast imaging is mammography,
 and ongoing research aims to optimize GI based mammography setups for
-highest soft tissue sensitivity at lowest possible dose [5][5].
+highest soft tissue sensitivity at lowest possible dose [5].
 Widespread applicability of tomography for mammography screenings is
 currently limited by dose concerns. The enhanced sensitivity of the
 phase interaction to soft tissues could be a paradigm shift in making the
 technology available even for routine checkups. Moreover, there is less need
 to generate contrast with strongly absorbed low energy photons, and a
 better compromise between dose and contrast can be reached for energies
-slightly above current mammography setups [6][6].
+slightly above current mammography setups [6].
 
 The present proposal aims to experimentally compare two setups designed for
 such medically relevant energies of 30 keV and 45 keV with respect to soft tissue
@@ -73,5 +73,7 @@ investigate the effects of Compton scattering at higher energies on a
 tomography-ready setup.
 
 # Publications
+
 [5]: Stampanoni, M., Wang, Z., Thuering, T., David, C., Roessl, E., Trippel, M., Kubik-Huch, R. A., Singer, G., Hohl, M. K., and Hauser, N., "The first analysis and clinical evaluation of native breast tissue using differential phase-contrast mammography," Inv. Rad. 46, 801–806 (2011).
+
 [6]: Fredenberg, Erik and Danielsson, Mats and Stayman, J. Webster and Siewerdsen, Jeffrey H. and Åslund, Magnus, "Ideal-observer detectability in photon-counting differential phase-contrast imaging using a linear-systems approach", Medical Physics, 39, 5317-5335 (2012), DOI:http://dx.doi.org/10.1118/1.4739195
